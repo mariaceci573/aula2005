@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+body{
+     font-family: "Open Sans", sans-serif;
+    background: #9b2a6e;
+background: linear-gradient(90deg,rgba(155, 42, 110, 1) 0%, rgba(199, 87, 145, 1) 50%, rgba(237, 88, 83, 1) 100%);
+}
+.avatar{
+    width: 280px;
+    border: #9b2a6e;
+}
